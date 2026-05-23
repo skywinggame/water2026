@@ -1,3 +1,5 @@
 {
     "0": {"url": "https://raw.githubusercontent.com/SkyWingGame/Water2026/refs/heads/main/0", "chapter": 25, "chapterSubs": 6},
-    "1": {"url": "https://raw.githubusercontent.com/SkyWingGame/Water2026/refs/heads/main/1", "chapter": 25, "chapterSubs": 6}
+    "1": {"url": "https://raw.githubusercontent.com/SkyWingGame/Water2026/refs/heads/main/2", "chapter": 25, "chapterSubs": 6},
+    "scratch": {"cost": 50}
+}
