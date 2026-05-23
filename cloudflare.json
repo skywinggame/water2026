@@ -1,0 +1,10 @@
+{
+    "token":"cfut_rpZbtTkuxsYERRxIV63OAGp3FsKoom1lyp4HNgDFbc71b0bd",
+    "access_key_id":"11c3b689240d48da44d2c84e6c3f3483",
+    "secret_access_key":"94fec96c7c62f9bf7bf189065480256825e45e70a3d1e6ac86e28ad3bab55e60",
+    "bucket":"watersort0",
+    "endpoint":"https://d010f14e48e38fe142dace108e7c43c4.r2.cloudflarestorage.com",
+    "local_path":"/Users/wangzj/Desktop/CloudFlare/WaterSort",
+    "once_uplaod_file":5,
+    "subs":["2/Store"]
+}
